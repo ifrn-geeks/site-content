@@ -5,7 +5,7 @@ matéria: Português
 conteúdo_propedêutico: Fake News
 descrição: Introdução ao Mundo Maker
 slides: https://docs.google.com/presentation/d/1J6umxqqafGLMLCPCdloBklrk7hnCiPPe
-tinkercard: https://www.tinkercad.com/things/astJNqeTH3u
+tinkercard: https://www.tinkercad.com/things/astJNqeTH3u  
 ---
 
 # Objetivo da aula

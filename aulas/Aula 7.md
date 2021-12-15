@@ -1,8 +1,20 @@
-# Manual da aula 07
-A partir de itens recicláveis, os estudantes montarão um estacionamento, onde o robô irá entrar.
+---
+nome: Curso Básico de Arduino: Mundo do trabalho
+número: 7
+matéria: História
+conteúdo_propedêutico: Revolução Industrial
+descrição: Discorrendo sobre a Revolução Industrial e o contexto atual da indústria 4.0 + Carros autônomos
+slides: https://docs.google.com/presentation/d/1J6umxqqafGLMLCPCdloBklrk7hnCiPPe
+tinkercard: https://www.tinkercad.com/things/kM4WFllKEmi 
+---
+
+# Objetivos da aula
+Visa falar sobre a disciplina de história no que tange às Revoluções Industriais e discutir sobre as suas inovações ao longo do tempo, trabalhando as competências EF08HI03 da Base Nacional Comum Curricular, além disso, introduzir-se-á sobre sensores. Na parte técnica desta aula, os monitores farão uma dinâmica com o robô locomotiva e sensores.
+
+# Dinâmica
+A partir de itens recicláveis, os estudantes montarão um estacionamento juntos, onde o robô locomotiva irá entrar.
 
 ## Componentes
-[Clique aqui para ver o circuito](https://www.tinkercad.com/things/kM4WFllKEmi)
 - 3x LED;
 - 1x Kit carrinho - Arduino;
 - 1x Placa de ensaio;
@@ -16,6 +28,7 @@ A partir de itens recicláveis, os estudantes montarão um estacionamento, onde 
 - Por fim, conecte o sensor ultrassônico para medir a distância.
 
 ## Código
+```c++
 int distancia = 0;
 
 int inicioP = 0;
@@ -164,6 +177,7 @@ void loop()
     digitalWrite(8, HIGH);
     
     tone(12, 523, 500); // play tone 60 (C5 = 523 Hz)
+    ```
     
     delay(500); // Wait for 500 millisecond(s)
     

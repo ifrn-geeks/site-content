@@ -15,7 +15,7 @@ Visa falar sobre a disciplina de português no que tange às fake news e discuti
 # Dinâmica
 Os alunos serão divididos em dois grupos e a dinâmica vai ser voltada para o uso de buzzers que transmitirão uma mensagem em código morse.
 
-# Componentes
+## Componentes
 
 - 1x Arduino Uno;
 - 2x 100 Ω Resistor;
@@ -23,12 +23,12 @@ Os alunos serão divididos em dois grupos e a dinâmica vai ser voltada para o u
 - 1x Botão;
 - 1x Placa de ensaio.
 
-# Instruções
+## Instruções
 
 - Pegue o arduino e os fios e conecte-os à placa de ensaio;
 - Após isso, ligue os fios ao buzzer e aos fios.
 
-# Código
+## Código
 
 ```c++
 int pos = 0;

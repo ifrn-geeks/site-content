@@ -8,7 +8,12 @@ slides: https://docs.google.com/presentation/d/1J6umxqqafGLMLCPCdloBklrk7hnCiPPe
 tinkercard: https://www.tinkercad.com/things/astJNqeTH3u
 ---
 
-A dinâmica vai ser voltada para o uso de buzzers que transmitirão uma mensagem em código morse.
+# Objetivo da aula
+Visa falar sobre a disciplina de português no que tange às fake news e discutir sobre artigos de opiniões, explicando a sua estrutura, trabalhando as competências EF89LP01, EF89LP02 e EF89LP03 da Base Nacional Comum Curricular, além disso, introduzir-será sobre condicionais ( if e else). Na parte técnica desta aula, os monitores farão uma dinâmica com um buzzer.
+
+
+# Dinâmica
+Os alunos serão divididos em dois grupos e a dinâmica vai ser voltada para o uso de buzzers que transmitirão uma mensagem em código morse.
 
 # Componentes
 

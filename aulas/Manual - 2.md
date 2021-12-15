@@ -1,8 +1,8 @@
 ---
-nome: Curso básico de Arduíno
+nome: Curso Básico de Arduino: Comunicação na internet
 número: 2
-matéria: Geografia
-conteúdo_propedêutico: Redes de trasporte
+matéria: Português
+conteúdo_propedêutico: Fake News
 descrição: Introdução ao Mundo Maker
 slides: https://docs.google.com/presentation/d/1J6umxqqafGLMLCPCdloBklrk7hnCiPPe
 tinkercard: https://www.tinkercad.com/things/astJNqeTH3u

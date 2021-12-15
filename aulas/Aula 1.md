@@ -3,7 +3,7 @@ nome: Curso Básico de Arduino
 número: 1
 conteúdo_propedêutico: Redes de trasporte
 descrição: Introdução ao Mundo Maker
-slides: https://docs.google.com/presentation/d/1J6umxqqafGLMLCPCdloBklrk7hnCiPPe
+slides: https://docs.google.com/presentation/d/1slUBvdYTZvyPRpBS1VzhfyEv7O0vEhpr/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true
 tinkercard: https://www.tinkercad.com/things/astJNqeTH3u
 ```
 
@@ -12,7 +12,7 @@ tinkercard: https://www.tinkercad.com/things/astJNqeTH3u
 trabalhando as competências EF08GE18 e EF08GE19 da Base Nacional Comum Curricular, além disso, apresentar-se-á sobre o projeto, explicando como ele funcionará
 no decorrer do curso, ou seja, com a mescla de assunto propedêutico com o técnico. Na parte técnica desta aula, os monitores farão uma dinâmica com o robô locomotiva.
 
-**[Para ver os slides que serão utilizados, clique aqui.](https://docs.google.com/presentation/d/1J6umxqqafGLMLCPCdloBklrk7hnCiPPe)**
+**[Para ver os slides que serão utilizados, clique aqui.](https://docs.google.com/presentation/d/1slUBvdYTZvyPRpBS1VzhfyEv7O0vEhpr/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true)**
 # Dinâmica
   Será ministrada pelos monitores ao final da aula, após eles terem discutido sobre lógica de programação, algoritmo e introduzido eletrônica. Usarão o robô locomotiva.
   

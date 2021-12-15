@@ -1,11 +1,11 @@
-```yaml
+---
 nome: Curso Básico de Arduino
 número: 1
 conteúdo_propedêutico: Redes de trasporte
 descrição: Introdução ao Mundo Maker
 slides: https://docs.google.com/presentation/d/1slUBvdYTZvyPRpBS1VzhfyEv7O0vEhpr/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true
 tinkercard: https://www.tinkercad.com/things/astJNqeTH3u
-```
+---
 
 # Objetivo da aula
   Visa falar sobre a disciplina de geografia no que tange ao povoamento da América e discutir sobre os meios de transportes a partir da interpretação de mapas,
@@ -28,8 +28,6 @@ no decorrer do curso, ou seja, com a mescla de assunto propedêutico com o técn
 - Ferro de solda;
 - Chave Philips. 
 
-
-* [Ver circuito no TinkerCad.](https://www.tinkercad.com/things/astJNqeTH3u)
 
 ***OBS: Necessidade de computador para programação.***
 

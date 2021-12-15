@@ -9,7 +9,7 @@ tinkercard: https://www.tinkercad.com/things/7j9DCHqotjk
 ---
 
 # Objetivo da aula
-Visa falar sobre a disciplina de matemática no que tange à semelhança de triângulos, explicando os seus casos, trabalhando a competência EF09MA12 da Base Nacional Comum Curricular, além disso, aprofundar-ser-á sobre condicionais ( if, else e else if). Na parte técnica desta aula, os monitores farão uma dinâmica com um robô carrinho.
+Visa falar sobre a disciplina de matemática no que tange à semelhança de triângulos, explicando os seus casos, trabalhando a competência EF09MA12 da Base Nacional Comum Curricular, além disso, aprofundar-ser-á sobre condicionais (if, else e else if). Na parte técnica desta aula, os monitores farão uma dinâmica com um robô carrinho.
 
 # Dinâmica 3
 Os alunos serão divididos em grupo e a dinâmica dessa aula funcionará a partir do uso de um robô carrinho que desenha figuras geométricas, em especial, triângulos.

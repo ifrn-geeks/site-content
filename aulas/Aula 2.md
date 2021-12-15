@@ -3,7 +3,7 @@ nome: Curso Básico de Arduino: Comunicação na internet
 número: 2
 matéria: Português
 conteúdo_propedêutico: Fake News
-descrição: Introdução ao Mundo Maker
+descrição: Discorrendo sobre a comunicação na internet e a presença de fake news
 slides: https://docs.google.com/presentation/d/1J6umxqqafGLMLCPCdloBklrk7hnCiPPe
 tinkercard: https://www.tinkercad.com/things/astJNqeTH3u  
 ---

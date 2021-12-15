@@ -1,8 +1,20 @@
-# Manual da dinâmica 3
-A dinâmica dessa aula funcionará a partir do uso de um robô que desenha figuras geométricas, em especial, triângulos.
+---
+nome: Curso Básico de Arduino: Robôs e triângulos
+número:3
+matéria: Matemática
+conteúdo_propedêutico: Semelhanças de triângulos 
+descrição: Aprofundamento do assunto de condicionais usando semelhança de triângulos
+slides:https://docs.google.com/presentation/d/1f0zPImNHbkmD4ci3rfgqvSet5OqodA3V/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true
+tinkercard: https://www.tinkercad.com/things/7j9DCHqotjk
+---
+
+# Objetivo da aula
+Visa falar sobre a disciplina de matemática no que tange à semelhança de triângulos, explicando os seus casos, trabalhando a competência EF09MA12 da Base Nacional Comum Curricular, além disso, aprofundar-ser-á sobre condicionais ( if, else e else if). Na parte técnica desta aula, os monitores farão uma dinâmica com um robô carrinho.
+
+# Dinâmica 3
+Os alunos serão divididos em grupo e a dinâmica dessa aula funcionará a partir do uso de um robô carrinho que desenha figuras geométricas, em especial, triângulos.
 
 ## Componentes
-[Clique aqui para ver o circuito](https://www.tinkercad.com/things/7j9DCHqotjk)
 - 1x Kit carrinho - Arduino;
 - 1x Sensor ultrassônico.
 
@@ -10,6 +22,7 @@ A dinâmica dessa aula funcionará a partir do uso de um robô que desenha figur
 - Monte o carrinho do kit arduino e conecte o sensor a ele.
 
 ## Código
+```c++
 int trig = 13; // pino transmissor
 int echo = 12;	// pino receptor
  
@@ -171,4 +184,4 @@ digitalWrite(trig, LOW);
   
   return distancia;
 }
-
+```

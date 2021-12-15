@@ -1,8 +1,20 @@
-# Manual da aula 4
-A dinâmica consiste na montagem de um heredograma utilizando arduino.
+---
+nome: Introdução à Arduino: O código da vida
+número: 4
+matéria: Ciências
+conteúdo_propedêutico: Genética
+descrição: Associação de genética com sistemas no arduino
+slides:https://docs.google.com/presentation/d/1uum1pGuKCQc8BM9L2exWHrJUfM-5k0Oa/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true
+tinkercard:https://www.tinkercad.com/things/2l6XBi42Zx9
+---
+
+# Objetivo da aula
+Visa falar sobre a disciplina de ciências no que tange à genética e interpretação de heredogramas, trabalhando as competências EF09CI08, EF09CI09, EF09CI10 e EF09CI11 da Base Nacional Comum Curricular, além disso, introduzir-será sobre loops. Na parte técnica desta aula, os monitores farão uma dinâmica usando uma placa de ensaio e leds.
+
+# Dinâmica
+A dinâmica consiste na montagem de um heredograma utilizando arduino e leds.
 
 ## Componentes
-[Clique aqui para ver o circuito](https://www.tinkercad.com/things/cZc2hi8WsCA)
 - 1x Arduino Uno;
 - 1x Placa de ensaio;
 - 3x Resistor (1kΩ);
@@ -18,6 +30,7 @@ A dinâmica consiste na montagem de um heredograma utilizando arduino.
 
 
 ##  Código
+```c++
 int bot1 = 2; //botão pai
 
  int bot2 = 3; //botão da mãe
@@ -179,4 +192,4 @@ void loop(){
  digitalWrite(Filho2, Filho[2]); 
   
 }
-
+```

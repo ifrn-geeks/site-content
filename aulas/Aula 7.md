@@ -4,7 +4,7 @@ número: 7
 matéria: História
 conteúdo_propedêutico: Revolução Industrial
 descrição: Discorrendo sobre a Revolução Industrial e o contexto atual da indústria 4.0 + Carros autônomos
-slides: https://docs.google.com/presentation/d/1J6umxqqafGLMLCPCdloBklrk7hnCiPPe
+slides: https://docs.google.com/presentation/d/1QUtElKSPLS4rm2Ttfjewvd5bgvg3Tv7R/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true
 tinkercard: https://www.tinkercad.com/things/kM4WFllKEmi 
 ---
 

@@ -31,7 +31,11 @@ no decorrer do curso, ou seja, com a mescla de assunto propedêutico com o técn
 - Ferro de solda;
 - Chave Philips. 
 
+
+* [Ver circuito no TinkerCad.](https://www.tinkercad.com/things/astJNqeTH3u)
+
 ***OBS: Necessidade de computador para programação.***
+
 
   ## Como montar?
  - **Passo 1:**
@@ -65,10 +69,8 @@ no decorrer do curso, ou seja, com a mescla de assunto propedêutico com o técn
   Com o último passo, a parte física está montada, só faltando posicionar os componentes eletrônicos ao longo da base.
   <img src="https://blog.eletrogate.com/wp-content/uploads/2020/07/disposicao-1024x755.jpg" alt="Passo 7" width="512"/>
   
-  # Código 
-  
   
   # Referências
-  Blog eletrogate[https://blog.eletrogate.com/robo-seguidor-de-linha-tutorial-completo/]
+  [Blog eletrogate.](https://blog.eletrogate.com/robo-seguidor-de-linha-tutorial-completo/)
 
   

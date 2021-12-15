@@ -1,8 +1,20 @@
-# Manual da aula 05
+---
+nome: Curso Básico de Arduino: Dança dos famosos
+número: 5
+matéria: Artes
+conteúdo_propedêutico: Dança
+descrição: Uso de dança em robôs enquanto movimentação
+slides: https://docs.google.com/presentation/d/13MWz8DL8FbQNTXCSQPR_yRewq4_ZQ9aN/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true
+tinkercard: https://www.tinkercad.com/things/7j9DCHqotjk
+---
+
+# Objetivo da aula
+Visa falar sobre a disciplina de artes no que tange à dança e seus populares tipos no Brasil, trabalhando as competências EF69AR10 e EF69AR11 da Base Nacional Comum Curricular, além disso, introduzir-será sobre funções básicas de comando no arduino. Na parte técnica, programar-se-á um robô para dançar.
+
+# Dinâmica
 Os alunos deverão se reunir em grupos. Cada equipe irá precisar de um robô e um computador para programar o robô. A dinâmica acontecerá por rodadas, em cada rodada será dada uma sequência de passos de dança, utilizando os passos presentes na apresentação (drop, floss, dab e frash) um dos membros de cada grupo deverá dançar em um tempo limite, e os outros membros deverão memorizar a dança e programar o robô para repeti-la.
 
 ## Componentes
-[Clique aqui para ver o circuito](https://www.tinkercad.com/things/7j9DCHqotjk)
 - 2x Kit carrinho - Arduino;
 - 2x Sensor ultrassônico.
 
@@ -16,6 +28,7 @@ Os alunos deverão se reunir em grupos. Cada equipe irá precisar de um robô e 
 - Frash: Girar 90° para um lado, depois 180° para o lado inverso, e voltar a posição inicial.
 
 ## Código 
+```c++
 int pino_motor_direito_frente = 3;
 
 int pino_motor_direito_tras = 5;
@@ -142,3 +155,4 @@ void mover_para_esquerda(int velocidade, int tempo) {
 void loop() {
   
 }
+```

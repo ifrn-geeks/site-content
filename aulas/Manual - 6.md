@@ -1,10 +1,22 @@
-# Manual da aula 6
+---
+nome: Curso Básico de Arduino: Energia
+número: 6
+matéria: Ciências
+conteúdo_propedêutico: Energia
+descrição: Discorrendo sobre energia no contexto de aninhamento de condições
+slides: https://docs.google.com/document/d/1t9nDT-xC-g1AEJ0Jj1MArxPUMvtZjFGN/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true
+tinkercard: https://www.tinkercad.com/things/lSdZuybCTaN  
+---
+
+# Objetivo da aula
+Visa falar sobre a disciplina de ciências no que tange à energia, explicando seus tipos, formas, usinas elétricas, trabalhando, dessa forma, as competências EF08CI01 e EF08CI06 da Base Nacional Comum Curricular, além disso, discutir-se-á sobre aninhamento de condições. Na parte técnica desta aula, os monitores farão uma dinâmica com leds.
+
+# Dinâmica
 Os alunos montarão o circuito de LEDs e através dos interruptores irão acendê-las, ressalta-se que a energia do circuito será provida por placas solares.
 
 ## Circuito do TinkerCad
 
 ## Componentes
-[Clique aqui para ver o circuito](https://www.tinkercad.com/things/lSdZuybCTaN)
 - 1x Arduino uno;
 - 5x LEDs coloridas;
 - 5x Resistores de 220 ohm;
@@ -17,6 +29,7 @@ Os alunos montarão o circuito de LEDs e através dos interruptores irão acend�
 - Segure o arduino e encaixe a placa solar de modo que a fotovoltaica forneça energia ao sistema. 
 
 ## Código
+```c++
 int inter1=2;
 
 int inter2=3;
@@ -147,5 +160,5 @@ void loop()
   
  
 }
- 
+ ```
 

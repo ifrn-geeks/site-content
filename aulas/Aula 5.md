@@ -1,5 +1,5 @@
 ---
-nome: Curso Básico de Arduino: Dança dos famosos
+nome: "Curso Básico de Arduino: Dança dos famosos"
 número: 5
 matéria: Artes
 conteúdo_propedêutico: Dança

@@ -1,5 +1,5 @@
 ---
-nome: Curso Básico de Arduino: Mundo do trabalho
+nome: "Curso Básico de Arduino: Mundo do trabalho"
 número: 7
 matéria: História
 conteúdo_propedêutico: Revolução Industrial

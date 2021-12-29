@@ -1,5 +1,5 @@
 ---
-nome: Curso Básico de Arduino: Energia
+nome: "Curso Básico de Arduino: Energia"
 número: 6
 matéria: Ciências
 conteúdo_propedêutico: Energia

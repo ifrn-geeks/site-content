@@ -1,5 +1,5 @@
 ---
-nome: Curso Básico de Arduino: Robôs e triângulos
+nome: "Curso Básico de Arduino: Robôs e triângulos"
 número:3
 matéria: Matemática
 conteúdo_propedêutico: Semelhanças de triângulos 

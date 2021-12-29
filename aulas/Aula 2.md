@@ -1,5 +1,5 @@
 ---
-nome: Curso Básico de Arduino: Comunicação na internet
+nome: "Curso Básico de Arduino: Comunicação na internet"
 número: 2
 matéria: Português
 conteúdo_propedêutico: Fake News

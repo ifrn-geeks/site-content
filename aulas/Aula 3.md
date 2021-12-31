@@ -4,7 +4,7 @@ número: 3
 matéria: Matemática
 conteúdo_propedêutico: Semelhanças de triângulos 
 descrição: Aprofundamento do assunto de condicionais usando semelhança de triângulos
-slides: https://docs.google.com/presentation/d/1f0zPImNHbkmD4ci3rfgqvSet5OqodA3V/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true
+slides: https://docs.google.com/presentation/d/1f0zPImNHbkmD4ci3rfgqvSet5OqodA3V
 tinkercard: https://www.tinkercad.com/things/7j9DCHqotjk
 ---
 

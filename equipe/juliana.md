@@ -1,4 +1,12 @@
-# Juliana Ribeiro
+---
+nome: Juliana Ribeiro
+links: 
+  - ícone: ""
+    url: ""
+descrição: ""
+foto: ""
+cargo: ""
+---
 
 ## Podcast
 

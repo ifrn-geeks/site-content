@@ -4,7 +4,7 @@ número: 5
 matéria: Artes
 conteúdo_propedêutico: Dança
 descrição: Uso de dança em robôs enquanto movimentação
-slides: https://docs.google.com/presentation/d/13MWz8DL8FbQNTXCSQPR_yRewq4_ZQ9aN/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true
+slides: https://docs.google.com/presentation/d/13MWz8DL8FbQNTXCSQPR_yRewq4_ZQ9aN
 tinkercard: https://www.tinkercad.com/things/7j9DCHqotjk
 ---
 

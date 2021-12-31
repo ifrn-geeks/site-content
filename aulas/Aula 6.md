@@ -51,17 +51,17 @@ void setup() {
   pinMode(azul, OUTPUT);
 
   // Interruptores
-  pinMode(inter1,INPUT);
-  pinMode(inter2,INPUT);
-  pinMode(inter3,INPUT);
+  pinMode(inter1, INPUT);
+  pinMode(inter2, INPUT);
+  pinMode(inter3, INPUT);
   Serial.begin(9600);
 }
 
 void loop() {
   // Lendo os interruptores
-  on1=digitalRead(inter1);
-  on2=digitalRead(inter2);
-  on3=digitalRead(inter3);
+  on1 = digitalRead(inter1);
+  on2 = digitalRead(inter2);
+  on3 = digitalRead(inter3);
 
   // Verde - Interruptor 1
 

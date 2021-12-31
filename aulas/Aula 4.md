@@ -4,7 +4,7 @@ número: 4
 matéria: Ciências
 conteúdo_propedêutico: Genética
 descrição: Associação de genética com sistemas no arduino
-slides: https://docs.google.com/presentation/d/1uum1pGuKCQc8BM9L2exWHrJUfM-5k0Oa/edit?usp=sharing&ouid=117355551557473037768&rtpof=true&sd=true
+slides: https://docs.google.com/presentation/d/1uum1pGuKCQc8BM9L2exWHrJUfM-5k0Oa
 tinkercard: https://www.tinkercad.com/things/2l6XBi42Zx9
 ---
 

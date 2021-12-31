@@ -26,7 +26,7 @@ O frontmatter deve ser parecer com isso:
 ---
 nome: Vitor Daniel
 links: 
-  - icone: github
+  - ícone: github
     url: https://github.com/vadolasi
 descrição: Aluno do IFRN
 foto: https://avatars.githubusercontent.com/u/39351572?v=4

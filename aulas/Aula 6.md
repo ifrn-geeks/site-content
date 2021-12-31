@@ -4,7 +4,7 @@ número: 6
 matéria: Ciências
 conteúdo_propedêutico: Energia
 descrição: Discorrendo sobre energia no contexto de aninhamento de condições
-slides: https://docs.google.com/presentation/u/1/d/1HxZjddzj6q-UakQ6JOKV6ncyFS4775re/edit?usp=drive_web&ouid=104914480351752385053&rtpof=true
+slides: https://docs.google.com/presentation/u/1/d/1HxZjddzj6q-UakQ6JOKV6ncyFS4775re
 tinkercard: https://www.tinkercad.com/things/lSdZuybCTaN  
 ---
 

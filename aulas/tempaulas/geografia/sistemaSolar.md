@@ -1,6 +1,6 @@
 ---
 nome: Curso Básico de Arduino
-número: 1
+número: n/a
 conteúdo_propedêutico: Sistema Solar
 matéria: Geografia
 descrição: Sistema solar e sondas espaciais

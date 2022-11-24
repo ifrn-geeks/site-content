@@ -1,5 +1,5 @@
 ---
-nome: "Curso Básico de Arduino: Comunicação na internet"
+nome: Curso Básico de Arduino
 número: n/a
 matéria: Matemática
 conteúdo_propedêutico: Os algarismos da civilização romana

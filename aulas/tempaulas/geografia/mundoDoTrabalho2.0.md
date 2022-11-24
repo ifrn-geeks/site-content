@@ -1,6 +1,6 @@
 ---
 nome: Curso Básico de Arduino
-número: -
+número: n/a
 matéria: Geografia
 conteúdo_propedêutico: O mundo do trabalho 2.0
 descrição: Revolução Industrial, Revolução Francesa e eventos que mudaram a relação de trabalho

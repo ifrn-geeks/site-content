@@ -1,6 +1,6 @@
 ---
 nome: Curso Básico de Arduino
-número: -
+número: n/a
 matéria: Português
 conteúdo_propedêutico: Elementos da comunicação
 descrição: Receptor/Emissor, linguagem verbal/não verbal

@@ -1,7 +1,8 @@
 ---
 nome: Curso Básico de Arduino
 número: 1
-conteúdo_propedêutico: Redes de trasporte
+conteúdo_propedêutico: Redes de transporte
+matéria: Geografia
 descrição: Introdução ao Mundo Maker
 slides: https://docs.google.com/presentation/d/1slUBvdYTZvyPRpBS1VzhfyEv7O0vEhpr
 tinkercard: https://www.tinkercad.com/things/astJNqeTH3u
